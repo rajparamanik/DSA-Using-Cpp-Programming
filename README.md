@@ -1,4 +1,4 @@
-# 🚀 Data Structures and Algorithms (DSA) Practice in C
+# 🚀 Data Structures and Algorithms (DSA) Practice in C++
 
 Welcome to my **DSA Practice Repository**! This repository is dedicated to mastering Data Structures and Algorithms by implementing them from scratch using the **C programming language**. 
 
@@ -14,21 +14,21 @@ The repository is organized by topic. Each directory contains the source code (`
 ├── Data-Structures/
 │   ├── Arrays/
 │   ├── Linked-Lists/
-│   │   ├── singly_linked_list.c
-│   │   └── doubly_linked_list.c
+│   │   ├── singly_linked_list.cpp
+│   │   └── doubly_linked_list.cpp
 │   ├── Stacks/
 │   ├── Queues/
 │   ├── Trees/
-│   │   └── binary_search_tree.c
+│   │   └── binary_search_tree.cpp
 │   └── Graphs/
 ├── Algorithms/
 │   ├── Searching/
-│   │   ├── binary_search.c
-│   │   └── linear_search.c
+│   │   ├── binary_search.cpp
+│   │   └── linear_search.cpp
 │   ├── Sorting/
-│   │   ├── bubble_sort.c
-│   │   ├── quick_sort.c
-│   │   └── merge_sort.c
+│   │   ├── bubble_sort.cpp
+│   │   ├── quick_sort.cpp
+│   │   └── merge_sort.cpp
 │   ├── Recursion/
 │   └── Dynamic-Programming/
 └── LeetCode-Solutions/
@@ -38,12 +38,12 @@ The repository is organized by topic. Each directory contains the source code (`
 
 ## 🛠️ Tech Stack & Prerequisites
 
-* **Language:** C (C11 standard preferred)
+* **Language:** Cpp (C11 standard preferred)
 * **Compiler:** `gcc` (GNU Compiler Collection) or `clang`
 * **Operating System:** Works across Windows (MinGW/WSL), macOS, and Linux
 
 ### Installation (For local compilation)
-Ensure you have a C compiler installed. Check your installation by running:
+Ensure you have a Cpp compiler installed. Check your installation by running:
 ```bash
 gcc --version
 ```
@@ -52,7 +52,7 @@ gcc --version
 
 ## 🚀 How to Run the Code
 
-To compile and run any specific C file, follow these steps using your terminal:
+To compile and run any specific Cpp file, follow these steps using your terminal:
 
 1. **Clone the repository:**
    ```bash
